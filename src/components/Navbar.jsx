@@ -9,7 +9,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
         <a href="#home" className="flex items-center space-x-2 font-mono text-xl font-bold text-white">
-   <img src="https://github.com/JohnnyFenelon/johnnycv/blob/main/public/mylogo.png?raw=true" alt="Logo" className="w-16 h-15 rounded-full object-cover" />
+   <img src="https://github.com/JohnnyFenelon/johnnycv/blob/d2d478b6c8e01dcb219b5b148a7b198fdfc57eef/public/mylogo.png?raw=true" alt="Logo" className="w-16 h-15 rounded-full object-cover" />
   <span>
     Johnny<span className="text-blue-500">.Code</span>
   </span>
