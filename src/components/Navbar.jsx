@@ -56,7 +56,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
               Contact{" "}
             </a>
             <a
-              href="#curriculum"
+              href="https://drive.google.com/drive/folders/18jUr1ZrsHmbvS4k8yBsbgmehRseAVeCj?usp=drive_link"
               className="text-gray-300 hove:text-white transition-colors"
             >
               {" "}
