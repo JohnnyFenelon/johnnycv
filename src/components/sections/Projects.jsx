@@ -37,7 +37,7 @@ export const Projects = () => {
                   href="https://programacion.lat/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
-                  View Project →
+                  View Project Here →
                 </a>
               </div>
             </div>
